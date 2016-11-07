@@ -28,15 +28,17 @@ Install rbenv & ruby-build - to install and compile different versions of Ruby c
 Install ruby 2.3.1 - the latest version of Ruby
   1. Close and reopen Terminal.```rbenv install 2.3.1```
   2. After quite some time, run:```rbenv global 2.3.1```
+  
 Once you have completed the above installation processes your system should be ready to launch the program!
 
 ## Deployment
 
 Please complete the following procedure to run the program on a live system:
   1. Open Terminal.
-  2. Change your directory to the one that which you have saved this zip file.`cd folder_name`
-  3. Type `ruby guessing_game.rb` OR  `ruby guessing_game_advanced.rb` to run the program.
-  4. READ all instructions BEFORE adding input.
+  2. Change your directory to the one that which you would like to save this project. `$ cd folder_name`
+  3. Then run the command `$ git clone https://github.com/kteich88/number_guessing_game.git` and `$ cd number_guessing_game`
+  4. Type `$ ruby guessing_game.rb` OR  `$ ruby guessing_game_advanced.rb` to run the program you wish to try as described above.
+  5. READ all instructions BEFORE adding input.
 
 ## Built With
 
